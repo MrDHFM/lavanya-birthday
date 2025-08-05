@@ -50,7 +50,7 @@ function BirthdayCard() {
               Wishing you a magical day filled with love, laughter, and
               unforgettable moments.
               <br />
-              May all your dreams come true!
+              May all your dreams come true!.
             </Greeting>
           </div>
       
